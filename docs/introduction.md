@@ -4,6 +4,10 @@
 本文書は、[Spark Summit 2014 Training hands-on exercises](https://databricks-training.s3.amazonaws.com/index.html), および[AMP Camp 5 - big data bootcamp](http://ampcamp.berkeley.edu/5/)を元に簡易に手順を記述し、自習者がApache Sparkをより簡便に理解する手助けをするための文章です。
 元のドキュメントから執筆時のバージョン(1.4.1)に合わせて少し記述を変更している部分があります。本文書は、JDK 8 Update 45(Oracle公式版)、Spark 1.4.1 (2015/8/24時点)を前提に記述されています。
 
+*アップデート報告 (2016/2/23時点)
+*現時点のSpark最新バージョン1.6.0で再検証しました。
+*修正必須の箇所は追記しておきます。
+
 ## 1-1. 用意するもの
 
 
